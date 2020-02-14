@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import pytest
-from  target.modulea import MyModule
+from  targetcode.modulea import MyModule
 
 class TestSuite:
     def test_one(self,shared_fixture):
